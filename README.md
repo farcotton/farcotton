@@ -1,6 +1,7 @@
 hello there!
 
 my name is FarCotton, i'm from the UK!
+
 i write primitive c++ (i'm a masochist)
 
 i use arch/i3 btw 
