@@ -1,12 +1,12 @@
-hello there!
+hello there !
 
-my name is FarCotton, i'm from the UK!
+my name is FarCotton , close companions call me Azrael - i'm from the UK !
 
-i write primitive c++ (i'm a masochist)
+i write primitive c++ ( i'm a masochist ) .
 
-i use arch/i3 btw 
+i use arch/i3 .
 
-i enjoy music, art, languages, philosophy and above all genshin impact
+my interests include music , art , languages , flowers , philosophy and above all genshin impact .
 
 feel free to take a look and make me feel validated >_<
 
