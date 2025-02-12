@@ -2,7 +2,7 @@ hello there !
 
 my name is FarCotton , close companions call me Azrael - i'm from the UK !
 
-i write primitive c++ ( i'm a masochist ) . i dabble in front-end development , and i am in the process of working on an optimisation toolkit for cottonOS - a barebones operating system built on RHEL ! 
+i write primitive c++ ( i'm a masochist ) . i dabble in front-end development , and i am in the process of working on an optimisation toolkit for cottonOS - a barebones operating system built on RHEL which utilises a custom SELinux policy ! 
 
 i use gentoo & arch with i3 .
 
