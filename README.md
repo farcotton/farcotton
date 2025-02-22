@@ -12,7 +12,7 @@ feel free to take a look and make me feel validated >_<
 
 if you've read this far , much appreciated </3
 
-
+###
 
 should you wish to contact me :
 
