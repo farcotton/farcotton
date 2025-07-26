@@ -19,5 +19,5 @@ if you've read this far , much appreciated </3
 ✿
 
 should you wish to contact me :
-farcotton@xmpp.jp
-@farcotton::matrix.org
+    farcotton@xmpp.jp
+    @farcotton::matrix.org
